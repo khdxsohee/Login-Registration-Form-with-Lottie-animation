@@ -18,9 +18,10 @@ A modern, stylish sliding animation **Login & Signup** form built with **HTML, C
 ---
 
 ## Screenshots
-
+![image](https://github.com/user-attachments/assets/1985f740-9399-40f1-b208-0c2122fd4d6a)
 ![image](https://github.com/user-attachments/assets/3d01c9ff-4bf3-4913-910a-7c88b14f21b5)
 *Sign Un form with social icons and glowing inputs*
+
 
 
 ---
